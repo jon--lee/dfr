@@ -1,0 +1,14 @@
+*.pyc
+*.swp
+images/
+*.jpg
+*.svg
+*.png
+*.jpeg
+*.eps
+*.zip
+*.pkl
+*.p
+*.csv
+*.pdf
+*.npy
